@@ -1,0 +1,16 @@
+package com.example.zerotarmacc.navigation
+
+const val ROUTE_HOME="home"
+const val ROUTE_SPLASH="splash"
+const val ROUTE_LOGIN="login"
+const val ROUTE_REGISTER="register"
+const val ROUTE_USERNAV="usernav"
+const val ROUTE_APPLICANTDASHBOARD="applicantdashboard"
+const val ROUTE_RECRUITERDASHBOARD="recruiterdashboard"
+const val ROUTE_CREATEJOB="createjob"
+const val ROUTE_MANAGEJOBS="managejobs"
+const val ROUTE_UPDATEJOB="updatejob"
+const val ROUTE_JOBLISTING="joblisting"
+const val ROUTE_APPLYTOJOB="applytojob"
+const val ROUTE_APPLIEDJOBS="appliedjobs"
+const val ROUTE_ALLAPPLICANTS="allapplicants"

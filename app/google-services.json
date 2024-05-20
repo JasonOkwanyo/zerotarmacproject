@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426012119470",
+    "project_id": "zerotarmac2",
+    "storage_bucket": "zerotarmac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426012119470:android:46e343cf73d812c5d4b83f",
+        "android_client_info": {
+          "package_name": "com.example.zerotarmacc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQjjJ0Uadu3cngI2K14PO2G3x2NTKGiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
